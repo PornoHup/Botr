@@ -34,22 +34,22 @@ async def start(event):
     if not event.is_private:
         return await event.respond("Mən Artiq Aktivəm 🥺")
     await event.reply(
-        "N A Z R Y N Tagger \n\nMen N A Z R Y N Qrupda Etikelemek üçün artıq Onlinedir \n✪ Məni Qrupa Əlavə Etdiyiniz Üçün Təşəkkürlər/help..\n\n┏ N A Z R Y N\n┣★ Owner : [Tural](https://t.me/hmnevar)\n┣★ Founder › : [Riyad](https://t.me/tagiyev)┓\n┣★ Kanal › : [N A Z R Y N ](https://t.me/nezrinlogo)\nƏyəncəli vaxt keçirmək üçün\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/Jankari_Ki_Duniya) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
+        "N A Z R Y N Tagger \n\nMen N A Z R Y N Qrupda Etikelemek üçün artıq Onlinedir \n✪ Məni Qrupa Əlavə Etdiyiniz Üçün Təşəkkürlər/help..\n\n┏ N A Z R Y N\n┣★ Owner : [Tural](https://t.me/hmnevar)\n┣★ Founder › : [Riyad](https://t.me/tagiyev)┓\n┣★ Kanal › : [N A Z R Y N ](https://t.me/nezrinlogo)\nƏyəncəli vaxt keçirmək üçün\n\n💞 ɪғ Səndə Bu Funksiyanı Kəşf Elə\nᴅᴍ ᴛᴏ ᴍʏ [Thagiyev](https://t.me/nezrinlogo) ...\n\nN A Z R Y N",
         link_preview=False,
         buttons=(
             [
                 Button.url(
-                    "☀︎︎️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ☀︎︎",
-                    "https://t.me/Alexa_MentionBot?startgroup=true",
+                    "😍🫠 Botu Sadəcə Qrupa Əlavə Elə",
+                    "https://t.me/NezrinTagBot?startgroup=true",
                 ),
             ],
             [
-                Button.url("☀︎︎ ɢʀᴏᴜᴘ ☀︎︎︎", "https://t.me/Shayri_Music_Lovers"),
-                Button.url("☀︎︎ ᴄʜᴀɴɴᴇʟ ☀︎︎", "https://t.me/Alexa_BotUpdates"),
+                Button.url("🧒🏻 Dəstək Qrupu", "https://t.me/NezrinLogolar"),
+                Button.url("💞 Dəstək Kanalı", "https://t.me/nezrinlogo"),
             ],
             [
-                Button.url("☀︎︎ ʙʀᴏ ☀︎︎️️", "https://t.me/Kattai_massom"),
-                Button.url("☀︎︎ ᴋɪɴɢ ☀︎︎︎", "https://t.me/Jankari_Ki_Duniya"),
+                Button.url("🦁 Kurucu", "https://t.me/hmnevar"),
+                Button.url("🇬🇪 Founder ", "https://t.me/Thagiyev"),
             ],
         ),
     )
