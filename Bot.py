@@ -32,9 +32,9 @@ spam_chats = []
 async def start(event):
     chat_id = event.chat_id
     if not event.is_private:
-        return await event.respond("ɪ ᴀᴍ ᴀʟɪᴠᴇ 🥺")
+        return await event.respond("Mən Artiq Aktivəm 🥺")
     await event.reply(
-        "N A Z R Y N Tagger \n\n✪ ɪ ᴀᴍ ᴀʟᴇxᴀ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [Tural](https://t.me/hmnevar)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [Riyad](https://t.me/tagiyev)┓\n┣★ ʀᴇᴘᴏ › : [N A Z R Y N ](https://t.me/nezrinlogo)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/Jankari_Ki_Duniya) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
+        "N A Z R Y N Tagger \n\nMen N A Z R Y N Qrupda Etikelemek üçün artıq Onlinedir \n✪ Məni Qrupa Əlavə Etdiyiniz Üçün Təşəkkürlər/help..\n\n┏ N A Z R Y N\n┣★ Owner : [Tural](https://t.me/hmnevar)\n┣★ Founder › : [Riyad](https://t.me/tagiyev)┓\n┣★ Kanal › : [N A Z R Y N ](https://t.me/nezrinlogo)\nƏyəncəli vaxt keçirmək üçün\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/Jankari_Ki_Duniya) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=(
             [
